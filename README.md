@@ -1,2 +1,2 @@
 # TO run the app in development
-uvicorn main:app --reload
+uvicorn blog.main:app --reload
